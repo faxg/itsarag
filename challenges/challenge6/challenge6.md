@@ -4,7 +4,7 @@
 
 In this challenge we will add an addtional agent to our multi-agent solution: **the Stock Action** agent.
 
-The Stock Action agent will be the first agent in this solution to not retrieve informtion but to perform action on behalf of the user.
+The Stock Action agent will be the first agent in this solution to not retrieve information but to perform action on behalf of the user.
 
 the high level logical architecture for the multi-agent solution we are going to create is the following:
 
